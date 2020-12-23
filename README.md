@@ -1,6 +1,8 @@
-# puntodeluapp
+# flutter-puntodeluapp
 
-A new Flutter application.
+Este es un proyecto de ejemplo, no tiene el objetivo de ser una app real.
+
+El objetivo de este proyecto es de entrenamiento. La idea es visualizar el contenido del blog [Punto de Lu](www.puntodelu.com) de Blogger en una app Android dónde ver y buscar post.
 
 ## Getting Started
 
